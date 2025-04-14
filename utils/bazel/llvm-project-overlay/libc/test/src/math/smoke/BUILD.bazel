@@ -1265,6 +1265,8 @@ math_test(name = "pow")
 
 math_test(name = "powf")
 
+math_test(name = "powf16")
+
 math_test(
     name = "remquo",
     hdrs = ["RemQuoTest.h"],

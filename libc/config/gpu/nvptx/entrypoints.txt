@@ -457,6 +457,7 @@ set(TARGET_LIBM_ENTRYPOINTS
     libc.src.math.nextupl
     libc.src.math.pow
     libc.src.math.powf
+    libc.src.math.powf16
     libc.src.math.powi
     libc.src.math.powif
     libc.src.math.remainder

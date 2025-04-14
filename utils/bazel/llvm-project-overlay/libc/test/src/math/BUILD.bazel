@@ -420,6 +420,8 @@ math_mpfr_test(name = "pow")
 
 math_mpfr_test(name = "powf")
 
+math_mpfr_test(name = "powf16")
+
 math_mpfr_test(
     name = "remquo",
     hdrs = ["RemQuoTest.h"],
